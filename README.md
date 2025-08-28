@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hola, soy ✨ ABBY ✨
 
-<!--
-**abbyybu-web/abbyybu-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Futura analista en ciencias de datos y desarrolladora web en formación LOL🍷
 
-Here are some ideas to get you started:
+Bienvenido a mi rincón digital. Actualmente estoy explorando el mundo del **desarrollo web** con **HTML y CSS**, enfocándome en crear páginas para **venta de productos** y **ofrecimiento de servicios**. Mi meta es combinar mi pasión por el diseño con el análisis de datos para crear experiencias web únicas y eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍷✨
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Próximamente-800000?style=for-the-badge&label=Python&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Próximamente-800000?style=for-the-badge&label=SQL&logo=mysql&logoColor=white" />
+</p>
